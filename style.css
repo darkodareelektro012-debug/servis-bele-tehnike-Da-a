@@ -126,3 +126,19 @@ body {
 .whatsapp .icon { background: #dcfce7; color: #16a34a; }
 .viber .icon { background: #f3e8ff; color: #9333ea; }
 .facebook .icon { background: #e0f2fe; color: #0284c7; }
+.logo-box {
+    background-color: #0f172a;
+    padding: 12px;
+    border-radius: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.logo-box img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 12px;
+}
