@@ -126,3 +126,9 @@ body {
 .whatsapp .icon { background: #dcfce7; color: #16a34a; }
 .viber .icon { background: #f3e8ff; color: #9333ea; }
 .facebook .icon { background: #e0f2fe; color: #0284c7; }
+img {
+    background-color: #111827; /* Da se stopi sa tamnom pozadinom kartice */
+    object-fit: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
