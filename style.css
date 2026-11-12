@@ -146,4 +146,8 @@ body {
     border: 2px solid #2563eb;
     box-shadow: 0 0 15px rgba(37, 99, 235, 0.4);
 }
+}/* Boja za mapu - bela ikonica na crvenoj pozadini */
+.maps .icon {
+    background: #ea4335;
+    color: #ffffff;
 }
